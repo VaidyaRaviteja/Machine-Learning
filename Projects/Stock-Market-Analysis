@@ -1,5 +1,0 @@
-* Analyze stock market data to identify trends and patterns in stock prices.
--Collect historical stock price data from sources like Yahoo Finance or use a dataset from Yahoo or Kaggle.
--Clean and preprocess the data using Pandas.
--Create features such as moving averages, daily returns, and volatility.
--Visualize the stock prices, moving averages, and volatility over time using Matplotlib and Seaborn.
